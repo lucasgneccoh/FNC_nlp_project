@@ -6,7 +6,7 @@ These notebooks are the main interface of the project.
 
 :small_orange_diamond:This is because it is very easy to clone the repository and download the different word embeddings in the Colab machine.
 
-:white_check_mark: Also because some nice features to make the notebooks more interactive
+:white_check_mark: Also because there are some nice features to make the notebooks more interactive
 
 
 To open the notebooks in google colab and run them, just go to the notebook and click on the badge ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg) on top of the notebook. This will allow you to work on a copy of it.
