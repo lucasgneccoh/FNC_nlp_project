@@ -2,4 +2,5 @@ These notebooks are the main interface of the project.
 
 We recommend they are opened in Google Colab
 
-[![Open In Colab](https://github.com/lucasgneccoh/FNC_nlp_project/blob/main/notebooks/gensim_pretrained_embeddings.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/lucasgneccoh/FNC_nlp_project/blob/main/notebooks/gensim_pretrained_embeddings.ipynb)
+
