@@ -1,0 +1,1 @@
+Here we store the metrics saved during the LSTM model training
